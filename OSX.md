@@ -56,17 +56,20 @@ You can also sign in to Slack on your iPhone or Android device!
 
 The idea is that you'll have Slack open all day, so that you can share useful links / ask for help / decide where to go to lunch / etc.
 
-Enjoy your ride with Ai Saturdays :)
+
 
 ## Install Anaconda and Jupyter notebook
-
 [Follow this tutorial](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
-
-## Setup Google Cloud (300€ free credits) linked to the fast.ai library
-[Follow this tutorial](https://medium.com/@hudwahab/gcp-setup-for-fastai-v3-on-macos-mojave-10-14-6921b000c580)
 
 ## Launching your first Jupyter Notebook instance
 [Follow this tutorial done by Christian, City leader of Guayaquil](https://medium.com/@christian_tutiven/empezando-a-usar-jupyter-notebook-para-python-parte-1-instalaci%C3%B3n-94e97b4c5f37)
 
+## Option A: Setup Google Collab
+[Follow this tutorial done by Christian, City leader of Guayaquil](https://medium.com/@christian_tutiven/empezando-a-usar-google-colab-con-pytorch-4efb53933624?sk=4e97d2efe9ca54ce705bc081d19f6e14)
+
+## Option B: Setup Google Cloud (300€ free credits) linked to the fast.ai library
+[Follow this tutorial](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
+
 ## Something missing?
 Open an issue or add your own contribution!!
+Enjoy your ride with Ai Saturdays :)
