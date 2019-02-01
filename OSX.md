@@ -44,6 +44,20 @@ cat ~/.ssh/id_ed25519.pub
 
 Copy-paste the public SSH key which we outputed with the last command and [add it to GitHub](https://github.com/settings/ssh).
 
+## Slack
+
+[Install Slack for Mac](https://slack.com/intl/es-es/downloads/osx).
+
+Launch the app and sign in to `aisaturdays-hispano` organization.
+
+Make sure you upload a picture there.
+
+You can also sign in to Slack on your iPhone or Android device!
+
+The idea is that you'll have Slack open all day, so that you can share useful links / ask for help / decide where to go to lunch / etc.
+
+Enjoy your ride with Ai Saturdays :)
+
 ## Install Anaconda and Jupyter notebook
 
 [Follow this tutorial](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
